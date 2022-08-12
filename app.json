@@ -7,9 +7,9 @@
         "subtitles",
         "muxing"
     ],
-    "repository": "https://github.com/NaysaBots/subtitle-muxer-bot",
-    "website": "https://t.me/naysabots",
-    "success_url": "https://t.me/naysabots",
+    "repository": "https://github.com/tgxthings/Spacesub",
+    "website": "https://github.com/tgxthings/Spacesub",
+    "success_url": "https://github.com/tgxthings/Spacesub",
     "env": {
         "BOT_TOKEN": {
             "description": "Create It New Bot From Bot Father and Paste a token here",
