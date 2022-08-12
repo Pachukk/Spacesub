@@ -13,7 +13,6 @@ I can Mux Any srt or ass File in File or Video
 
 Use Help Command to Know How to Use me
 
-Made With 💕 By @Tellybots_4u
 """
     HELP_TEXT = """
 Recommended
@@ -28,22 +27,18 @@ Softmux
 HardMux
 ➠ Send /hardmux to add Subtitle hardly in it 
 
-Made With 💕 By @Tellybots_4u
 """
     ABOUT_TEXT = """
- **🤖 Bot :** Sub-Muxer\n
- **👲 Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
- **👥 Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)\n
+ **👲 Developer :** [Steve](https://t.me/EnthadaNokunne)\n
  **❄️ Credits :** Everyone in this journey\n
- **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
  **📝 Language :** [Python3](https://python.org)\n
  **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
  **🌟 Server :** [Heroku](https://heroku.com)\n
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('🤖 Owner', url='https://t.me/EnthadaNokunne'),
+        InlineKeyboardButton('💬 Admin', url='https://t.me/chemistry2021e')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
