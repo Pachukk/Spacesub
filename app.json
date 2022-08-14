@@ -14,18 +14,22 @@
         "BOT_TOKEN": {
             "description": "Create It New Bot From Bot Father and Paste a token here",
             "required": "True"
+            "value": ""
         },
         "API_HASH": {
             "description": "Get it from my telegram.org",
             "required": "True"
+            "value": ""
         },
         "APP_ID": {
             "description": "Get it from my telegram.org",
             "required": "True"
+            "value": ""
         },
         "OWNER_ID": {
             "description": "Get It From IDFinderRobot by Pressing id command",
             "required": "True"
+            "value": ""
        },
        "DATABASE_URL": {
             "description": "Your MongoDB URI",
@@ -33,15 +37,17 @@
        },
        "SESSION_NAME": {
             "description": "Your Session Name",
-            "value": "TELLYBOTS"
+            "value": "SUBBOTS"
        },
         "UPDATES_CHANNEL": {
             "description": "Get it From IDFinderRobot By Forwarding Msg From Channel to get id",
             "required": "True"
+            "value": ""
        },
         "LOG_CHANNEL": {
             "description": "Get it From IDFinderRobot By Forwarding Msg From Channel to get id",
             "required": "False"
+            "value": ""
         }
     },
 	"buildpacks": [
